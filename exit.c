@@ -2,5 +2,5 @@
 
 int _exit(char **args)
 {
-  return 0;
+	return 0;
 }
